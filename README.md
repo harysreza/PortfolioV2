@@ -1,5 +1,3 @@
 ## My Portfolio
 
-## Visit
-
-This project was uploaded [here](https://harysreza.netlify.app)
+You can visit my portfolio page [here](https://harysreza.netlify.app)
