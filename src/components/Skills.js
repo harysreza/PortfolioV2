@@ -12,27 +12,27 @@ const Skills = () => {
           <h4 className="skills--title">Frontend Developer</h4>
           <div className="skills--list">
             <div className="line">
-              <h4>HTML</h4>
+              <h4 className="skill">HTML</h4>
               <p className="skills--desc">intermediate</p>
-              <h4>CSS</h4>
+              <h4 className="skill">CSS</h4>
               <p className="skills--desc">intermediate</p>
-              <h4>JavaScript</h4>
+              <h4 className="skill">JavaScript</h4>
               <p className="skills--desc">intermediate</p>
             </div>
             <div className="line">
-              <h4>React</h4>
+              <h4 className="skill">React</h4>
               <p className="skills--desc">intermediate</p>
-              <h4>Next.js</h4>
+              <h4 className="skill">Next.js</h4>
               <p className="skills--desc">basic</p>
-              <h4>Bootstrap</h4>
+              <h4 className="skill">Bootstrap</h4>
               <p className="skills--desc">basic</p>
             </div>
             <div className="line">
-              <h4>TailwindCSS</h4>
+              <h4 className="skill">TailwindCSS</h4>
               <p className="skills--desc">basic</p>
-              <h4>Styled-components</h4>
+              <h4 className="skill">Styled-components</h4>
               <p className="skills--desc">basic</p>
-              <h4>Git</h4>
+              <h4 className="skill">Git</h4>
               <p className="skills--desc">intermediate</p>
             </div>
           </div>
@@ -41,15 +41,15 @@ const Skills = () => {
           <h4 className="skills--title">Backend Developer</h4>
           <div className="skills--list">
             <div className="line">
-              <h4>Node.js</h4>
+              <h4 className="skill">Node.js</h4>
               <p className="skills--desc">basic</p>
-              <h4>MongoDB</h4>
+              <h4 className="skill">MongoDB</h4>
               <p className="skills--desc">basic</p>
-              <h4>Express</h4>
+              <h4 className="skill">Express</h4>
               <p className="skills--desc">basic</p>
             </div>
             <div className="line">
-              <h4>Firebase</h4>
+              <h4 className="skill">Firebase</h4>
               <p className="skills--desc">basic</p>
             </div>
           </div>
