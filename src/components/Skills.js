@@ -21,7 +21,7 @@ const Skills = () => {
             </div>
             <div className="line">
               <h4 className="skill">React</h4>
-              <p className="skills--desc">intermediate</p>
+              <p className="skills--desc">basic</p>
               <h4 className="skill">Next.js</h4>
               <p className="skills--desc">basic</p>
               <h4 className="skill">Bootstrap</h4>
@@ -29,8 +29,6 @@ const Skills = () => {
             </div>
             <div className="line">
               <h4 className="skill">TailwindCSS</h4>
-              <p className="skills--desc">basic</p>
-              <h4 className="skill">Styled-components</h4>
               <p className="skills--desc">basic</p>
               <h4 className="skill">Git</h4>
               <p className="skills--desc">intermediate</p>
