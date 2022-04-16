@@ -41,6 +41,6 @@ export const projects = [
     tags: ["HTML", "CSS", "JavaScript"],
     visit: "https://hr-forkify.netlify.app/",
     code: "https://github.com/harysreza/hr-forkify",
-    id: 5,
+    id: 4,
   },
 ];
