@@ -35,14 +35,6 @@ export const projects = [
     id: 3,
   },
   {
-    image: "images/ggstore.PNG",
-    title: "GGSTORE",
-    description: "Website with several features including auth, notifications, and top up game vouchers",
-    tags: ["MongoDB", "Express.js", "ReactJS", "Node.js"],
-    code: "https://github.com/harysreza/hr-storegg",
-    id: 4,
-  },
-  {
     image: "images/forkify.PNG",
     title: "Forkify",
     description: "Recipe App with bookmark and add recipe feature",
